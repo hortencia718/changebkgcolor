@@ -8,5 +8,5 @@ colors =["red", "orange", "purple", "blue", "pink", "lime", "lightpink","lightbl
  document.body.style.background = randomColor ;
 
 //   alternative option on click blinking 
- setTimeout(change_colors, 200);
+ setTimeout(change_colors, 1000);
 }
